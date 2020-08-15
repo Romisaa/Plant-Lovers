@@ -1,0 +1,67 @@
+
+.textmuteddiv{
+    padding-top: 30px;
+    font-size: 15px;
+}
+a{
+    padding-right: 50px;
+    
+}
+.carousel-item {
+    width: 1290px;
+    height: 615px;
+}
+.card-img-overlay{
+    color: white;
+    font-weight: bold;
+    font-size: 100px;
+    margin-top: 200px;
+    margin-right: 100px;
+}
+.toscew{
+    background-color: green;
+    position: absolute;
+    top: 600px;
+    left: 0px;
+    right: 0px;
+    height: 600px;
+    color: white;
+    -ms-transform: skewY(4deg);
+    -webkit-transform: skewY(4deg);
+    transform: skewY(4deg);
+}
+.tounscew{
+    -ms-transform: skewY(-4deg);
+    -webkit-transform: skewY(-4deg);
+    transform: skewY(-4deg);
+    padding-top: 200px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 20px;
+}
+.card1{
+    padding-top: 650px;
+    height: 950px;
+    width: 950px;
+    margin: auto;
+}
+.toscew2{
+    background-color: green;
+    position: absolute;
+    top: 2480px;
+    left: 0px;
+    right: 0px;
+    height: 600px;
+    color: white;
+    -ms-transform: skewY(-4deg);
+    -webkit-transform: skewY(-4deg);
+    transform: skewY(-4deg);
+}
+.tounscew2{
+    -ms-transform: skewY(4deg);
+    -webkit-transform: skewY(4deg);
+    transform: skewY(4deg);
+    padding-top: 94px;
+    padding-left: 41px;
+    padding-right: 20px;
+ }
